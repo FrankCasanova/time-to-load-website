@@ -6,9 +6,8 @@ This Python script measures the time taken to load a website by requesting the U
 
 1. Make sure you have Python installed on your system.
 2. Clone the repository or download the script.
-3. Install the required dependencies using `pip install -r requirements.txt`.
-4. Run the script using `python load_time_checker.py`.
-5. Enter the URL for which you want to measure the load time when prompted.
+3. Run the script using `main.py`.
+4. Enter the URL for which you want to measure the load time when prompted.
 6. The script will display the time taken to load the website in seconds.
 
 ## Example
